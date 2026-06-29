@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 >👋 Hi there! I’m currently starting my journey in software development. I enjoy learning new technologies and building practical projects, My main focus is on Java, but I’m also exploring other languages and frameworks to broaden my skills. I’m passionate about solving problems, working in teams, and growing as a developer every day. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jocude&label=Profile%20views&color=0e75b6&style=flat" alt="jocude" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jocude" alt="jocude" /></a> </p>
-
 - 🌱 I’m currently learning **Spring & Spring Boot, React and Angular**
 
 - 📫 How to reach me **jocudegit@gmail.com**
