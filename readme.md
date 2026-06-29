@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **jocudegit@gmail.com**
 
+- Linkedin: https://www.linkedin.com/in/jorge-cuevas-delgado-a2467231a/
+
 - ⚡ Fun fact **The name “Java” comes from the Indonesian island famous for its coffee. That’s why the Java logo is a steaming cup of coffee**
 
 <h3 align="left">Connect with me:</h3>
