@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 
-<p>Backend developer and Infraestructure consultant, with a solid background in systems and networking. I've worked in IT support, automation, scripting and AI, and I'm now heading towards <b>Cloud / SRE-DevOps</b>. I enjoy building practical projects, solving problems and learning something new every day.</p>
+<p>Backend developer and Service Engineer, with a solid background in systems and networking. I've worked in IT support, automation, scripting and AI, and I'm now heading towards <b>Cloud / SRE-DevOps</b>. I enjoy building practical projects, solving problems and learning something new every day.</p>
 
 - 🚀 Featured project: **[ProyectoNube](https://github.com/Jocude/ProyectoNube)**: a self-hosted cloud storage app built with Spring Boot, Docker, Flyway and CI with GitHub Actions
 
